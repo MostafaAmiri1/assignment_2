@@ -7,6 +7,8 @@ class Program
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Hello, my name is Mostafa");
         
+        Console.WriteLine("this is for testing");
+        
         CountTo(5);
     }
  
